@@ -1,3 +1,7 @@
+![User_Info screenshot](public/User_Info.png)
+![User_Info no user input error screenshot](public/User_Info Error1.png)
+![User_Info age error screenshot](public/User_Info Error2.png)
+
 # User_Info
 Enquires valid username and age to be stored as a list.
 
